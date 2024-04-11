@@ -4,11 +4,8 @@ public class Media {
     
     public static void main (String[] args) {
 
-        // Scanner in;
-        // in = new Scanner(System.in);
-
-        System.out.println("funciona!");
-
+        Scanner in;
+        in = new Scanner(System.in);
     }
 
 }
